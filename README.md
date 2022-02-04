@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Visit](https://alirmemon37.github.io/hubble-landing-page-introduction/)
 
 ## My process
 
@@ -50,4 +50,4 @@ How to build a hero section of a product using CSS grid
 ## Author
 
 - Website - [Ali Memon](Not available yet)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/alirmemon37)
+- Frontend Mentor - [@alirmemon37](https://www.frontendmentor.io/profile/alirmemon37)
