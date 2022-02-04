@@ -10,7 +10,7 @@ html {
 
 body {
   background-color: rgb(103, 75, 175);
-  background-image: url("/images/bg-desktop.svg");
+  background-image: url("images/bg-desktop.svg");
   background-position: fixed;
   background-repeat: no-repeat;
   font-family: "Open Sans", sans-serif;
