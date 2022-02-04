@@ -84,7 +84,7 @@ footer {
   border: 1px solid #fff;
   padding: 0.5rem;
   border-radius: 50%;
-  display: flex;
+  display: flex !important;
   align-items: center;
   justify-content: center;
   cursor: pointer;
